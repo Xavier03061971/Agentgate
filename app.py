@@ -250,17 +250,5 @@ if run:
 st.divider()
 
 st.caption("AgentGate Enterprise Governance System")
-```
 
----
-
-# Luego
-
-Haz commit y push:
-
-```bash
-git add .
-git commit -m "Upgrade enterprise dashboard"
-git push
-```
 
