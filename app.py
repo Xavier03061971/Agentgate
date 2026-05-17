@@ -268,6 +268,3 @@ git commit -m "Upgrade enterprise dashboard"
 git push
 ```
 
-Streamlit se actualizará automáticamente en 1–2 minutos.
-
-La demo pública se verá muchísimo más profesional.
