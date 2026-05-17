@@ -1,8 +1,4 @@
-# AgentGate Enterprise Dashboard v2
 
-Reemplaza COMPLETAMENTE tu archivo `dashboard.py` por este código.
-
-```python
 import streamlit as st
 import pandas as pd
 import random
